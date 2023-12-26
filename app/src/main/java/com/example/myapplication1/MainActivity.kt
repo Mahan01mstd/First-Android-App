@@ -2,7 +2,6 @@ package com.example.myapplication1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.accessibility.AccessibilityManager.TouchExplorationStateChangeListener
 import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
